@@ -1,0 +1,9 @@
+# app/code
+src/app/code/local/Magecomp/Recaptcha            app/code/local/Magecomp/Recaptcha
+src/app/design/adminhtml/default/default/layout/adminlogin.xml            app/design/adminhtml/default/default/layout/adminlogin.xml
+src/app/design/adminhtml/default/default/template/adminlogin.phtml            app/design/adminhtml/default/default/template/adminlogin.phtml
+src/app/design/frontend/base/default/layout/recaptcha.xml            app/design/frontend/base/default/layout/recaptcha.xml
+src/app/design/frontend/base/default/template/recaptcha/            app/design/frontend/base/default/template/recaptcha/
+
+# app/etc
+src/app/etc/modules/Magecomp_Recaptcha.xml            app/etc/modules/Magecomp_Recaptcha.xml

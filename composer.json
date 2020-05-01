@@ -1,0 +1,9 @@
+{
+  "name": "hgati/magecomp-recaptcha",
+  "type": "magento-module",
+  "description": "Contact Form CAPCTHA",
+
+  "require": {
+	"magento-hackathon/magento-composer-installer": "*"
+  }
+}
